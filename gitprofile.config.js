@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'finley-conway-b55199218',
+    linkedin: 'finley-conway-b55199218/',
     twitter: '',
     facebook: '',
     instagram: '',
@@ -47,7 +47,7 @@ const config = {
       position: 'Team Member',
       from: 'November 2021',
       to: 'September 2022',
-      companyLink: 'https://example.com',
+      companyLink: '',
     },
     {
       company: 'AAA Games Company',
@@ -65,22 +65,7 @@ const config = {
       link: 'https://example.com'
     },
   ], */
-  education: [
-    /*
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
-    */
-  ],
+  education: [ ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [ ],
