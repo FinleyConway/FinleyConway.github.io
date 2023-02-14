@@ -29,7 +29,7 @@ const config = {
       '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'C/C++',
+    'C++',
     'C#',
     'Python',
     'Unity',
@@ -53,7 +53,7 @@ const config = {
       company: 'AAA Games Company',
       position: 'Play Tester',
       from: 'September 2022',
-      to: 'September 2022',
+      to: '',
       companyLink: '',
     }
   ],
@@ -84,7 +84,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'dracula',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -100,7 +100,37 @@ const config = {
     // Available themes. To remove any theme, exclude from here.
     themes: [
       'light',
+      'dark',
+      /*
+      'cupcake',
+      'bumblebee',
+      'emerald',
+      'corporate',
+      'synthwave',
+      'retro',
+      'cyberpunk',
+      'valentine',
+      'halloween',
+      'garden',
+      'forest',
+      'aqua',
+      'lofi',
+      'pastel',
+      'fantasy',
+      'wireframe',
+      'black',
+      'luxury',
       'dracula',
+      'cmyk',
+      'autumn',
+      'business',
+      'acid',
+      'lemonade',
+      'night',
+      'coffee',
+      'winter',
+      'procyon',
+      */
     ],
 
     // Custom theme
