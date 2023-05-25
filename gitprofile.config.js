@@ -41,7 +41,7 @@ const config = {
       from: 'September 2022',
       to: 'September 2022',
       companyLink: '',
-    }
+    },
   ],
   /* certifications: [
     {
