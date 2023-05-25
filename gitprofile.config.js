@@ -36,20 +36,6 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Subway',
-      position: 'Sandwhich Artist',
-      from: 'Augest 2021',
-      to: 'November 2021',
-      companyLink: '',
-    },
-    {
-      company: 'Pizza Hut',
-      position: 'Team Member',
-      from: 'November 2021',
-      to: 'September 2022',
-      companyLink: '',
-    },
-    {
       company: 'AAA Games Company',
       position: 'Play Tester',
       from: 'September 2022',
