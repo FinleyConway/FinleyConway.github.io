@@ -30,9 +30,7 @@ const config = {
   },
   skills: [
     'C++',
-    'C#',
     'Python',
-    'Unity',
   ],
   experiences: [
     {
